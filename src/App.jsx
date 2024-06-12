@@ -25,12 +25,12 @@ function App() {
 
         <div className="flex items-center gap-4 mb-4 p-4 rounded-xl bg-white">
           <span className="font-semibold text-amber-700"><FaWhatsapp /></span>
-          <a href="https://wa.me/21983240342" target="_blank" className="text-gray-700 hover:underline"> (21) 98324-0342</a>
+          <a href="https://wa.me/+5521983240342" target="_blank" className="text-gray-700 hover:underline"> (21) 98324-0342</a>
         </div>
 
         <div className="flex items-center gap-4 mb-4 p-4 rounded-xl bg-white">
           <span className="font-semibold text-amber-700"><MdOutlineMailOutline /> </span>
-          <a href="mailto:seuemail@example.com" className="text-gray-700 hover:underline">carvalhoeng.cons@gmail.com</a>
+          <a href="mailto:carvalhoeng.cons@gmail.com" className="text-gray-700 hover:underline">carvalhoeng.cons@gmail.com</a>
         </div>
 
         <div className="mb-4 p-4 rounded-xl bg-white">
